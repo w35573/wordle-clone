@@ -3,7 +3,7 @@
 
 <p>If a letter is highlighted in green, it means that it's placed in the correct spot in correspondence with the daily word. If the letter is highlighted in yellow, this signifies that this letter is featured in the daily word, but it's not in the correct spot. Gray indicates that the letter is not in the target word at all.</p>
 
-# Credits
+# Reference
 <p>Web Dev Simplified: https://www.youtube.com/watch?v=Wak7iN4JZzU</p>
 
 # You can play here
