@@ -6,4 +6,5 @@
 # Credits
 <p>Web Dev Simplified: https://www.youtube.com/watch?v=Wak7iN4JZzU</p>
 
-# Live site
+# You can play here
+<p>https://w35573.github.io/wordle-clone/</p>
